@@ -22,8 +22,3 @@ All ModularCar methods and fields will be output to the server console with the 
 
 ⚠️ **Important:** After use, **it is highly recommended to delete the plugin immediately** from your production server, as the command is available to all players and can be spammed. The plugin is intended for one-time API list retrieval only.
 
----
-
-## Методы | Methods
-<details>
-<summary>Нажмите, чтобы развернуть | Click to expand</summary>
